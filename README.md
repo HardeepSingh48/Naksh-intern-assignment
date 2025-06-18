@@ -47,7 +47,7 @@ npm run dev
 ### 2. Frontend
 ```
 cd frontend
-npm install
+npm install 
 npm run dev
 ```
 - The frontend runs on `http://localhost:3000` by default.
